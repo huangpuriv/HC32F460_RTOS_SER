@@ -1,0 +1,7 @@
+Objects/
+*.o
+*.crf
+*.d
+*.elf
+*.hex
+*.bin
